@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "尚硅谷大厂学院",
+      "author": "qiaoyu"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "body": "喜大普奔",
+      "postId": 2,
+      "id": 2
+    },
+    {
+      "body": "喜大普奔",
+      "postId": 2,
+      "id": 3
+    },
+    {
+      "body": "喜大普奔",
+      "postId": 2,
+      "id": 4
+    },
+    {
+      "body": "喜大普奔",
+      "postId": 2,
+      "id": 5
+    },
+    {
+      "body": "喜大普奔",
+      "postId": 2,
+      "id": 6
+    },
+    {
+      "body": "喜大普奔",
+      "postId": 2,
+      "id": 7
+    },
+    {
+      "body": "喜大普奔",
+      "postId": 2,
+      "id": 8
+    },
+    {
+      "body": "喜大普奔",
+      "postId": 2,
+      "id": 9
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
